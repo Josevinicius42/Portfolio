@@ -25,8 +25,8 @@
 
 ### [**Final Project: House Sales in King County, USA**]
  - **Realizei uma análise exploratória utilizando Python e bibliotecas de dados**, projeto final do curso IBM-Data Analysis with Python
- - Bibliotecas **Pandas** e **Matplotlib**
- - [Acesse a Documentação](https://app.powerbi.com/view?r=eyJrIjoiZmUzOGIwOGEtNmU4Ny00YzcwLThkOGYtOGI3ZmEyZGVmOWRiIiwidCI6IjA0NjNlMTE3LWI3NGItNGI3OS1hNGIwLTY0NGUxMTE0OWEwOCJ9)
+ - Bibliotecas **Pandas**, **Matplotlib**, **Seaborn** e **Scikit-learn**
+ - [Acesse a Documentação](https://github.com/Josevinicius42/Final_Project_IBM/blob/main/House_Sales_in_King_Count_USA-20231003-1696291200.jupyterlite%20(2)%20(1).ipynb))
 <p align="center">
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/VvHdJtT/Whats-App-Image-2024-02-26-at-12-51-16.jpg" alt="Whats-App-Image-2024-02-26-at-12-51-16" border="0"></a>
 </p>
