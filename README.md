@@ -3,6 +3,8 @@
 
 ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
+- *[Acesse o Catalogo de Dashboards](https://app.powerbi.com/view?r=eyJrIjoiNjAxYjE0ZTAtODliMi00ZjEwLWIwMjgtNWY2MTY1NTk5MzZlIiwidCI6ImI4ZWU1ZGJkLWFhOTEtNDYzOS05YWZhLWMxMGY2NmJhNWU3MyJ9)*
+
 <p align="center">
   <img src="https://hubmeta.com/wp-content/uploads/2021/03/Data-is-the-New-Oil-1.jpg" width=50%>
 </p>
@@ -16,7 +18,7 @@
  - Para obter os dados, fiz um Web Scraping utilizando as bibliotecas BeautifulSoup e Selenium para automatizar a tarefa.
  - [Acesse o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmUzOGIwOGEtNmU4Ny00YzcwLThkOGYtOGI3ZmEyZGVmOWRiIiwidCI6IjA0NjNlMTE3LWI3NGItNGI3OS1hNGIwLTY0NGUxMTE0OWEwOCJ9)
 <p align="center">
-  <a href="https://ibb.co/y49tmVK"><img src="https://i.ibb.co/mNjkrSd/Whats-App-Image-2023-12-06-at-23-29-50.jpg" alt="Whats-App-Image-2023-12-06-at-23-29-50" border="0"></a>
+  <a href="https://ibb.co/C7mpQGD"><img src="https://i.ibb.co/k85VXCv/Whats-App-Image-2024-02-26-at-15-02-40-1.jpg" alt="Whats-App-Image-2024-02-26-at-15-02-40-1" border="0"></a>
 </p>
 
 ## **Python**
