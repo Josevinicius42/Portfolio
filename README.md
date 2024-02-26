@@ -1,5 +1,7 @@
 # Portfolio
-# Bem-vindo(a) ao meu Portfólio de Análise e Ciência de Dados!
+# Bem-vindo(a) ao meu Portfólio de Dados!
+
+![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
 <p align="center">
   <img src="https://hubmeta.com/wp-content/uploads/2021/03/Data-is-the-New-Oil-1.jpg" width=50%>
