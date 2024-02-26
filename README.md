@@ -14,8 +14,8 @@
 ## **Power BI**
 
 ### [**Customer Reviews Analysis - TDC TRANSPORTES**]
- - **Dashboard de performance logistica da companhia de transportes TCD**, em que foram realizadas avaliações comparativas dos serviços, perfil de cliente, rotas e frota da BA entre passageiros que recomendam ou não a companhia aérea.
- - Para obter os dados, fiz um Web Scraping utilizando as bibliotecas BeautifulSoup e Selenium para automatizar a tarefa.
+ - **Dashboard de performance logistica da companhia de transportes TCD**, em que foram realizadas avaliações dos KPI: InFull, On Time e OTIF
+ - Como também, é analisado OTD por transportadora e casos com Ocorrência. Podendo visualizar as regioes do mapa para cada ocorrência.
  - [Acesse o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmUzOGIwOGEtNmU4Ny00YzcwLThkOGYtOGI3ZmEyZGVmOWRiIiwidCI6IjA0NjNlMTE3LWI3NGItNGI3OS1hNGIwLTY0NGUxMTE0OWEwOCJ9)
 <p align="center">
   <a href="https://ibb.co/C7mpQGD"><img src="https://i.ibb.co/k85VXCv/Whats-App-Image-2024-02-26-at-15-02-40-1.jpg" alt="Whats-App-Image-2024-02-26-at-15-02-40-1" border="0"></a>
