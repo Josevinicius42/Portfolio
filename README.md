@@ -38,3 +38,18 @@
  - Tecnologias Usadas **Power Automate**, **HTML** e **PowerBI**
  - [Acesse a Documentação](https://github.com/Josevinicius42/Projeto_PowerAutomate)
 ![image](https://github.com/Josevinicius42/Portfolio/assets/144733214/b53dae73-a6ac-4808-8fa0-46ce804625f2)
+
+## **SQL**
+
+### [**Estudos contínuos de SQL**]
+ - **Uso esse repositório para salvar alguns estudos contínuos de SQL**, projeto de aprimoramento.
+ - Tecnologias Usadas: **SQL**.
+ - [Acesse a Documentação](https://github.com/Josevinicius42/SQL/blob/main/README.md)
+
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/Josevinicius42/Portfolio/assets/144733214/d00972a7-b55d-46de-a67f-625e48c1c402" alt="sql" width="200"/>
+</div>
+
+
+
+
