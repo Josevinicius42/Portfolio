@@ -30,3 +30,11 @@
 <p align="center">
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/VvHdJtT/Whats-App-Image-2024-02-26-at-12-51-16.jpg" alt="Whats-App-Image-2024-02-26-at-12-51-16" border="0"></a>
 </p>
+
+## **Python**
+
+### [**Automatização de Processos: Melhoria Continua na visualização de dados por steakholders**]
+ - **Realizei uma melhoria no processo de visualização de dados diários**, projeto interno.
+ - Tecnologias Usadas **Power Automate**, **HTML** e **PowerBI**
+ - [Acesse a Documentação](https://github.com/Josevinicius42/Projeto_PowerAutomate)
+![image](https://github.com/Josevinicius42/Portfolio/assets/144733214/b53dae73-a6ac-4808-8fa0-46ce804625f2)
