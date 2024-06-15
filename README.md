@@ -31,7 +31,7 @@
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/VvHdJtT/Whats-App-Image-2024-02-26-at-12-51-16.jpg" alt="Whats-App-Image-2024-02-26-at-12-51-16" border="0"></a>
 </p>
 
-## **Python**
+## **Power Automate**
 
 ### [**Automatização de Processos: Melhoria Continua na visualização de dados por steakholders**]
  - **Realizei uma melhoria no processo de visualização de dados diários**, projeto interno.
