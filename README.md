@@ -23,13 +23,24 @@
 
 ## **Python**
 
+### [**Projeto Pessoal de Corrida: API Strava + Data Analyst**]
+ - **Realizei uma análise da performance de minhas corridas diárias**, projeto pessoal para analisar minha performance até a meta de 10km.
+ - Bibliotecas **Pandas**, **Matplotlib**, **Requests**, **Tabulaten**, **Numpy** e **Mplcyberpunk**
+ - [Acesse a Documentação](https://github.com/Josevinicius42/API-Strava/blob/main/Strava%2BActivies.md)
+
+<p align="center">
+    <img src="https://github.com/Josevinicius42/Portfolio/assets/144733214/44332caf-9e62-4eeb-987c-2a4a2cf10bc9" alt="sql" width="700" style="margin: 0 auto; display: block;"/>
+</div>
+
+
+
 ### [**Final Project: House Sales in King County, USA**]
  - **Realizei uma análise exploratória utilizando Python e bibliotecas de dados**, projeto final do curso IBM-Data Analysis with Python
  - Bibliotecas **Pandas**, **Matplotlib**, **Seaborn** e **Scikit-learn**
  - [Acesse a Documentação](https://github.com/Josevinicius42/Final_Project_IBM/blob/main/House_Sales_in_King_Count_USA-20231003-1696291200.jupyterlite%20(2)%20(1).ipynb))
-<p align="center">
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/VvHdJtT/Whats-App-Image-2024-02-26-at-12-51-16.jpg" alt="Whats-App-Image-2024-02-26-at-12-51-16" border="0"></a>
-</p>
+          <p align="center">
+ .           <a href="https://imgbb.com/"><img src="https://i.ibb.co/VvHdJtT/Whats-App-Image-2024-02-26-at-12-51-16.jpg" alt="Whats-App-Image-2024-02-26-at-12-51-16" border="0"></a>
+   </p>
 
 ## **Power Automate**
 
