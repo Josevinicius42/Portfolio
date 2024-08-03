@@ -6,8 +6,6 @@
 - *[Acesse o Catálogo de Dashboards](https://app.powerbi.com/view?r=eyJrIjoiNjAxYjE0ZTAtODliMi00ZjEwLWIwMjgtNWY2MTY1NTk5MzZlIiwidCI6ImI4ZWU1ZGJkLWFhOTEtNDYzOS05YWZhLWMxMGY2NmJhNWU3MyJ9)*
 - *[Mais Dashboards](https://app.powerbi.com/view?r=eyJrIjoiZGY2Nzg5NzgtNDEwNy00MmY5LWE0MDYtMDQ0ZTQwMDc4MzNiIiwidCI6ImJlMjRjOTM4LWI1YmMtNGRhZC04NGY0LWMwMjhkZmM2Y2EwMSJ9)*
 
--*Modelo catalogo:* ![image](https://github.com/user-attachments/assets/e03dabf4-1b5e-4b0b-afc9-30da3295ff0b)
-
 
 <p align="center">
   <img src="https://hubmeta.com/wp-content/uploads/2021/03/Data-is-the-New-Oil-1.jpg" width=50%>
